@@ -1,5 +1,5 @@
 # llm-course-chn
-
+# fork 自https://github.com/friendmine/llm-course-chn
 # 许可
 ```
 向mlabonne申请了中文的翻译许可！  
